@@ -1,2 +1,2 @@
-worker python bot.py
+worker python dump_users.py
 
