@@ -1,2 +1,2 @@
-worker config.json
+worker config.json dump_users.py bot.py
 
