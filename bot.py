@@ -46,7 +46,7 @@ def mention_all(update: Update, context: CallbackContext) -> None:
                 link = chat.export_invite_link()
             except BadRequest:
                 update.message.reply_text(
-                    "Users are not recorded! Please promote the bot as an admin and give it permission 'Invite users via link' and 'Delete messages'!"
+                    "Etiketleme işlemi başarısız! Lütfen botu yönetici olarak tanıtın ve 'Kullanıcıları bağlantı yoluyla davet et' ve 'Mesajları sil' izni verin!"
                 )
                 return
             update_chatid_usersid(chat.id, link)

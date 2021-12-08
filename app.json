@@ -1,7 +1,7 @@
 {
-  "token": "2035936435:AAF1GpAe5n4HA4CBZOaykPHpSi645RXXGsg",
-  "api_id": "7311006",
-  "api_hash": "a219571581a9ea8363f885d1ce86e579",
+  "token": "5099995022:AAGe6qN1OFj4N7sfThRCkIfLMib6Bjwbi6M",
+  "api_id": "8657413",
+  "api_hash": "a526e2c6468520a5fefe2050f9c8e8b6",
   "links": ["invited_link_for_prefetching_group_members"],
-  "keywords": ["@all", "@everyone", "@MentionAllMembersBot"]
+  "keywords": ["@all", "@tag", "@TubidyTagBot"]
 }
